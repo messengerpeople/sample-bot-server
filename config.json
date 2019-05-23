@@ -1,0 +1,11 @@
+{
+    "host": "localhost",
+    "port": 3000,
+    "verificationToken": "change-me",
+    "secret": "change-me",
+    "auth": {
+        "clientId": "your-client-id",
+        "clientSecret": "your-client-secret"
+    },
+    "senderId": "your-desired-sender-uuid"
+}
