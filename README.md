@@ -2,6 +2,10 @@ Sample bot server
 =================
 This project provides a sample server, acting as a chat bot.
 
+Note
+----
+You'll need to [create an account at app.messengerpeople.dev](https://app.messengerpeople.dev) to create your first webhook and an OAuth application to obtain all required credentials.
+
 Installation
 ------------
 Clone the repository:
