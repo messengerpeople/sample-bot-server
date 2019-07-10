@@ -16,7 +16,7 @@
     "author": "Moritz Friedrich <moritz.friedrich@messengerpeople.com>",
     "license": "MIT",
     "dependencies": {
-        "axios": "^0.18.0",
-        "express": "^4.17.0"
+        "axios": "^0.18.1",
+        "express": "^4.17.1"
     }
 }
